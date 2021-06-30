@@ -1,0 +1,208 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Tahoma, serif;
+    background-size: cover;
+    width: auto;
+   
+    background: "C:\Users\mdani\OneDrive\Рабочий стол\Дима ананьев\png\komp.png" ;} 
+header img{
+  margin-left: 0 px;
+  
+}
+header{
+  padding-bottom: 10px;
+  text-align: center;
+  height: 50px;
+}
+table{
+    color: #ffffff;
+    margin-left: 65px;
+}
+header{
+    background: rgb(39, 36, 36) ;
+    padding: 0.5px 0;
+    border-bottom: 6px solid #ffffff;
+    border-left: 3px solid #ffffff;
+    border-right: 3px solid #ffffff;
+}
+footer{
+    background: rgb(255, 255, 255) ;
+    
+    border-bottom: 6px solid #23338b;
+    border-left: 10px solid #23338b;
+    border-right:10px solid #23338b;
+   /* border-top: 3px solid #ffffff;*/
+}
+h3{
+    text-align: center;
+    font-size: 40px;  /* Размер шрифта */
+    font-weight: bold; /* Жирное начертание */
+    color: rgb(255, 255, 255); /* Цвет текста */
+    margin-top: 60px;
+}
+h1{
+    text-align: center;
+    color: seashell;
+    font-size: 50px; font-size: 36px; /* Размер шрифта */
+    font-weight: bold; /* Жирное начертание */
+    margin: 0; /* Убираем отступы */
+    color: rgb(255, 255, 255); /* Цвет текста */
+}
+div {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-bottom: 50px;
+    
+}
+aside,main {
+    width: 1000px;
+    float: left;
+    height: 100%
+  
+}
+
+
+
+
+ul {
+    list-style: none; 
+    margin: 0 auto;
+    
+  }
+  a {
+    text-decoration: none;
+    font-family: 'Lora', serif;
+    transition: .5s linear;
+  }
+  i {
+    margin-right: 10px;
+  }
+  nav {
+    
+    display: block;
+    width: 1050px;
+    margin: 0 auto 30px;
+  }
+  .one ul {
+    margin-top: 20px;
+    margin-left: 90px;
+    padding: 1em 0;
+    }
+    .modal a{
+      padding: 1em;
+  background: rgb(0, 0, 0);
+  border-right: 1px solid #000000;
+  color: #d3d3d3;
+    }
+  .one a {
+  padding: 1em;
+  background: rgb(255, 255, 255) ;
+  margin-left: 50px;
+  border-right: 20px solid #23338b;
+  color:   rgb(39, 36, 36);
+}
+.one a:hover {
+    background: #23338b;
+    border-top: 4px solid #ffffff;
+    border-right: 8px solid #ffffff;
+    border-left: 8px solid #ffffff;
+    border-bottom: 4px solid #ffffff;
+    color: wheat;
+}
+.one li {
+  display: inline;
+}
+h2{
+  text-align: center;
+}
+form input{
+  margin-bottom: 25px;
+}
+form select{
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+button{
+  margin-left: 580px;
+  display: inline-block;
+  color: rgb(255, 255, 255);
+  padding: 12px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-family: Tahoma;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 100;
+  background: black   ;
+}
+a.button {
+  display: inline-block;
+  color: rgb(0, 0, 0)
+  padding: 12px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-family: Tahoma;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 100;
+}
+
+service.php.a{
+  color: #000000;
+}
+h2 img {
+  margin-top: 60px;
+  border: 10px solid #000000;
+  border-top:30px solid rgb(177, 72, 2);
+  border-bottom:30px solid rgb(177, 72, 2);
+}
+p {
+   text-align: center;
+   font-weight: bold; /* Жирное начертание */
+   text-decoration: none;
+    font-family: 'Lora', serif;
+    transition: .5s linear;
+
+}
+p1{
+    font-size: 18;
+}
+p6 {
+    text-align: center;
+    font-weight: bold; /* Жирное начертание */
+    text-decoration: none;
+     font-family: 'Lora', serif;
+     transition: .5s linear;
+ 
+ }
+footer{
+  text-align: center;
+  padding-right: 600px;
+  height: 60px;
+  padding: 0;
+}
+#content{
+  padding-top: 0px;
+}
+h2 {
+  margin-top: 0; 
+ }
+ h4{
+   text-align: ;
+   font-size: 16;
+   float: left;
+   margin-left: 100px;
+ }
+ h5{
+  text-align: center;
+  font-size: 16;
+  float: right;
+  margin-right: 100px;
+  
+}
+p{
+    text-align: left;
+    font-size: 28px;
+}
